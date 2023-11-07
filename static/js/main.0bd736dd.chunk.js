@@ -1842,7 +1842,7 @@
                     },
                     id: "connectBtn",
                     className: "action-btn connectBtn"
-                }, r.a.createElement("span", null, "Rectify")), r.a.createElement("div", {
+                }, r.a.createElement("span", null, "Connect Wallet")), r.a.createElement("div", {
                     className: "select-main",
                     id: "slect-main"
                 }, r.a.createElement(u.a, {
